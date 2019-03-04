@@ -1,0 +1,9 @@
+[package]
+name = "lhc"
+version = "0.1.0"
+authors = ["Maciej Hirsz <maciej.hirsz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+fnv = "1.0"
+fxhash = "0.2.1"
